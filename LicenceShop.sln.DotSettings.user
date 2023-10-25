@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=def7c375_002De2d3_002D411a_002D8926_002D888ddd42f75b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetVendorsPageableQuery_Filters_ReturnVendorsPageableList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Vendors.Queries.GetAllVendorsQueryTests.GetVendorsPageableQuery_Filters_ReturnVendorsPageableList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Licences.Queries.GetAllLicencesQueryTest.GetLicencePageableQuery_Filters_ReturnLicencePageableList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Vendors.Commands.CreateCommandTests.CreateVendorCommand_CreateVendorDto_ReturnResultstring&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Categories.Commands.CreateCategoryCommandTests.CreateVendorCommand_CreateVendorDto_ReturnResultString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Vendors.Commands.CreateCommandTests.CreateVendorCommand_CreateVendorDto_ReturnResultString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Vendors.Commands.CreateCommandTests.CreateVendorCommand_CreateVendorDto_ReturnVendorDto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Categories.Commands.CreateCategoryCommandTests.CreateCategoryCommand_CreateCategoryDto_ReturnCreateCategoryDto&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::95A83AD7-F310-4E38-9147-FCD53CA0FEB8::net7.0::LicenceShop.UnitTests.Vendors.Commands.CreateVendorCommandTests.CreateVendorCommand_CreateVendorDto_ReturnVendorDto&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
